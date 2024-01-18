@@ -14,7 +14,7 @@ operator:
  delegation_approver_address: 0x0000000000000000000000000000000000000000
  # Please keep this field to 0, and it can be updated later using EigenLayer CLI
  staker_opt_out_window_blocks: 0
- metadata_url: <METADATA_FILE_RAW>
+ metadata_url: https://raw.githubusercontent.com/1inkya/eigenlayer-node/main/metadata.json
 
 # EigenLayer Slasher contract address
 # This will be provided by EigenLayer team
